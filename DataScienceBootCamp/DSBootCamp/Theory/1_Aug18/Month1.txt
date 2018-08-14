@@ -1,0 +1,10 @@
+AI
+ML
+Deep Learning & Neural Networks
+Data Science
+
+
+AI Is bigger - ML (Using Statistics tools to learn from Data) 
+Deep Learning (Most complex part of ML)
+Data Science is the combination of All the above 3. It is abt undestanding the data.
+
